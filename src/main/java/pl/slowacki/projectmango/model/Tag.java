@@ -1,4 +1,4 @@
-package model;
+package pl.slowacki.projectmango.model;
 
 public class Tag {
     private int id;
