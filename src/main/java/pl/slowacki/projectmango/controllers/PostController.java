@@ -19,7 +19,7 @@ public class PostController {
     public Post getPost(@PathVariable int id){
         return posts.get(id);
     }
-    @PostMapping("/api/v1/posts")
+    @PostMapping("/api/v1/posts") // Generate id server side
     public String createPost(@RequestBody Post post){
         posts.put(post.getId(),post);
         return "ok"; // TODO: return status:ok in json

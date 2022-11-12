@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a063908c-fe35-48d0-b48b-1ccf0b3aa009" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/controllers/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/controllers/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/controllers/TagController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/ProjectMangoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/ProjectMangoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/controllers/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/controllers/PostController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/model/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/model/Post.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/model/Tag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/model/Tag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/slowacki/projectmango/model/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
